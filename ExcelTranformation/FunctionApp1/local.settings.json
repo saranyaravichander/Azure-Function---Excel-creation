@@ -1,0 +1,19 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "sqlConnection": "xxxxxx",
+    "MyStorageConnectionAppSetting": "UseDevelopmentStorage=true"
+  },
+  //"bindings": [
+  //    {
+  //      "name": "myOutputBlob",
+  //      "type": "blob",
+  //      "path": "test/xslx",
+  //      "connection": "MyStorageConnectionAppSetting",
+  //      "direction": "out"
+  //    }
+  //  ],
+  //  "disabled": "false"
+}
